@@ -1,4 +1,4 @@
-# Projet Backend NestJS
+# Efrei M1 NestJS TP1 2024
 
 Ce projet constitue un backend développé avec NestJS pour mon 1er année de Mastère chez l'Efrei, un framework Node.js basé sur TypeScript, et comprend les composants suivants :
 
