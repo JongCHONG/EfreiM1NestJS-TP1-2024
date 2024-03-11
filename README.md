@@ -37,8 +37,4 @@ Le Middleware de Sécurité est responsable de la sécurisation des routes et de
 
 ## Contributeurs
 
-- [Votre Nom](lien-vers-votre-profil-github) - Développeur
-
-## License
-
-Ce projet est sous licence [MIT](lien-vers-la-license).
+- JongCHONG
